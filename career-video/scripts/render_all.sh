@@ -7,5 +7,8 @@ python3 scripts/prepare_audio.py
 python3 scripts/build_script.py
 npx tsx scripts/check_script.ts
 npx remotion render src/index.ts Main out/matthew_career_sf.mp4 --codec=h264 --crf=${CRF:-23} --audio-codec=aac --audio-bitrate=128k
+# loudness-normalize the mix to -16 LUFS (web standard); video stream copied untouched
+ffmpeg -v error -y -i out/matthew_career_sf.mp4 -c:v copy -af loudnorm=I=-16:TP=-1.5:LRA=11 -ar 48000 -c:a aac -b:a 128k -movflags +faststart out/_norm.mp4
+mv out/_norm.mp4 out/matthew_career_sf.mp4
 ffmpeg -v error -y -ss 2 -i out/matthew_career_sf.mp4 -frames:v 1 out/poster.png
 ls -la out/matthew_career_sf.mp4 out/poster.png

@@ -1,0 +1,207 @@
+{
+  "fps": 30,
+  "width": 1280,
+  "height": 720,
+  "totalSeconds": 80.0,
+  "scenes": [
+    {
+      "id": "scene1",
+      "location": "Ferry Building, Embarcadero",
+      "start": 0.0,
+      "end": 12.0,
+      "narration": "Hi, I'm Matthew. My whole career has been about one thing: helping people get real value out of technology. Let me walk you through how I got here.",
+      "voStart": 0.8,
+      "audio": "audio/scene1.mp3",
+      "audioDuration": 9.404,
+      "captions": [
+        {
+          "text": "Hi, I'm Matthew. My whole career has been about one",
+          "start": 0.8,
+          "end": 4.52
+        },
+        {
+          "text": "thing: helping people get real value out of technology.",
+          "start": 4.52,
+          "end": 8.185
+        },
+        {
+          "text": "Let me walk you through how I got here.",
+          "start": 8.185,
+          "end": 10.204
+        }
+      ],
+      "stat": null,
+      "title": "Matthew Friedler · Solutions Consulting"
+    },
+    {
+      "id": "scene2",
+      "location": "California Street cable car, Nob Hill",
+      "start": 12.0,
+      "end": 27.0,
+      "narration": "I studied Information Systems at the University of Nevada, Reno, and built websites for the university. Then at Bridgepointe, I assessed twenty-five client business processes and learned the most important skill in sales: listen first, then recommend.",
+      "voStart": 12.3,
+      "audio": "audio/scene2.mp3",
+      "audioDuration": 14.446,
+      "captions": [
+        {
+          "text": "I studied Information Systems at the University of Nevada, Reno,",
+          "start": 12.3,
+          "end": 15.741
+        },
+        {
+          "text": "and built websites for the university. Then at Bridgepointe,",
+          "start": 15.741,
+          "end": 19.033
+        },
+        {
+          "text": "I assessed twenty-five client business processes and learned the most",
+          "start": 19.033,
+          "end": 22.835
+        },
+        {
+          "text": "important skill in sales: listen first, then recommend.",
+          "start": 22.835,
+          "end": 26.746
+        }
+      ],
+      "stat": "25 business processes assessed",
+      "title": null
+    },
+    {
+      "id": "scene3",
+      "location": "South Park, SoMa",
+      "start": 27.0,
+      "end": 39.0,
+      "narration": "At Sierra Angels, I evaluated more than forty early-stage startups. It taught me how buyers actually make decisions, and what a strong business case looks like.",
+      "voStart": 27.5,
+      "audio": "audio/scene3.mp3",
+      "audioDuration": 9.326,
+      "captions": [
+        {
+          "text": "At Sierra Angels, I evaluated more than forty early-stage startups.",
+          "start": 27.5,
+          "end": 31.791
+        },
+        {
+          "text": "It taught me how buyers actually make decisions,",
+          "start": 31.791,
+          "end": 34.444
+        },
+        {
+          "text": "and what a strong business case looks like.",
+          "start": 34.444,
+          "end": 36.826
+        }
+      ],
+      "stat": "40+ startups evaluated",
+      "title": null
+    },
+    {
+      "id": "scene4",
+      "location": "Dolores Park, Mission District",
+      "start": 39.0,
+      "end": 54.0,
+      "narration": "At Contentsquare, I grew from customer success into a Solutions Expert. I built a working proof of concept on a customer's own data that got fifty users adopting in thirty days, and helped close a one-million-dollar deal.",
+      "voStart": 39.5,
+      "audio": "audio/scene4.mp3",
+      "audioDuration": 13.009,
+      "captions": [
+        {
+          "text": "At Contentsquare, I grew from customer success into",
+          "start": 39.5,
+          "end": 42.451
+        },
+        {
+          "text": "a Solutions Expert. I built a working proof of concept",
+          "start": 42.451,
+          "end": 45.685
+        },
+        {
+          "text": "on a customer's own data that got fifty users adopting",
+          "start": 45.685,
+          "end": 48.949
+        },
+        {
+          "text": "in thirty days, and helped close a one-million-dollar deal.",
+          "start": 48.949,
+          "end": 52.509
+        }
+      ],
+      "stat": "50 users in 30 days → $1M deal",
+      "title": null
+    },
+    {
+      "id": "scene5",
+      "location": "Alamo Square and the Painted Ladies",
+      "start": 54.0,
+      "end": 67.5,
+      "narration": "Across more than eighty accounts, I start with discovery, connect the solution to business outcomes, and build what the customer needs to see. I even build AI agents that help my own team work faster.",
+      "voStart": 54.5,
+      "audio": "audio/scene5.mp3",
+      "audioDuration": 11.311,
+      "captions": [
+        {
+          "text": "Across more than eighty accounts, I start with discovery,",
+          "start": 54.5,
+          "end": 57.756
+        },
+        {
+          "text": "connect the solution to business outcomes,",
+          "start": 57.756,
+          "end": 60.048
+        },
+        {
+          "text": "and build what the customer needs to see. I even",
+          "start": 60.048,
+          "end": 62.712
+        },
+        {
+          "text": "build AI agents that help my own team work faster.",
+          "start": 62.712,
+          "end": 65.811
+        }
+      ],
+      "stat": "80+ enterprise accounts",
+      "title": null
+    },
+    {
+      "id": "scene6",
+      "location": "Crissy Field and the Golden Gate Bridge",
+      "start": 67.5,
+      "end": 80.0,
+      "narration": "What I love most is the moment a customer sees what's possible. As a Solutions Consultant, I want to own that moment, from first call to signed deal. I'd love to bring that to your team.",
+      "voStart": 68.0,
+      "audio": "audio/scene6.mp3",
+      "audioDuration": 11.389,
+      "captions": [
+        {
+          "text": "What I love most is the moment a customer",
+          "start": 68.0,
+          "end": 70.498
+        },
+        {
+          "text": "sees what's possible. As a Solutions Consultant,",
+          "start": 70.498,
+          "end": 73.508
+        },
+        {
+          "text": "I want to own that moment,",
+          "start": 73.508,
+          "end": 75.177
+        },
+        {
+          "text": "from first call to signed deal.",
+          "start": 75.177,
+          "end": 77.332
+        },
+        {
+          "text": "I'd love to bring that to your team.",
+          "start": 77.332,
+          "end": 79.389
+        }
+      ],
+      "stat": null,
+      "title": "Matthew Friedler · matthewfriedler@gmail.com"
+    }
+  ]
+}
